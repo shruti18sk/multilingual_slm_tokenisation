@@ -55,5 +55,5 @@ Full numbers: `results/token_ratio.csv`.
 3. Downstream accuracy on Hindi/Korean benchmarks.
 
 ## Run it
-Open `notebooks/01_token_pilot.ipynb` in Google Colab (CPU is enough).
+Open `notebooks/multilingual_slm_tokenisation.ipynb` in Google Colab.
 Dependencies: `requirements.txt`.
