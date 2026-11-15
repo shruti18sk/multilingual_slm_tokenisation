@@ -29,7 +29,7 @@ Hindi and Korean relative to English.
 | TinyLlama-1.1B-Chat | 4.55x (4.45-4.66) | 3.23x (3.16-3.30) |
 | SmolLM2-1.7B | 5.09x (4.98-5.22) | 4.83x (4.73-4.94) |
 
-<img src="results/parity_plot%20(1).png" alt="Tokenization parity" width="700">
+<img src="parity_plot%20(1).png" alt="Tokenization parity" width="700">
 
 **Observations**
 - Hindi needs roughly 4.4-5.1x more tokens than English across all three models.
