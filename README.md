@@ -39,7 +39,7 @@ Hindi and Korean relative to English.
 - An earlier 5-sentence pilot overestimated the ratios by about 8-13%; the model
   ranking stayed the same.
 
-Full numbers: `results/token_ratio.csv`.
+Full numbers: `token_ratio.csv`.
 
 ## Limitations
 - Only 3 languages and 3 small models; tokenizer vocabulary size and training
