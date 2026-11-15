@@ -29,6 +29,9 @@ Hindi and Korean relative to English.
 | TinyLlama-1.1B-Chat | 4.55x (4.45-4.66) | 3.23x (3.16-3.30) |
 | SmolLM2-1.7B | 5.09x (4.98-5.22) | 4.83x (4.73-4.94) |
 
+## Related Work
+Petrov et al. (2023), https://arxiv.org/abs/2305.15425
+
 <img src="parity_plot%20(1).png" alt="Tokenization parity" width="700">
 
 **Observations**
